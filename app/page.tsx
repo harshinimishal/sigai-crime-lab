@@ -98,10 +98,10 @@ export default function Home() {
               }}
             >
               <div className="text-[clamp(2rem,2vw,4rem)]">
-                • DATE: 10 JUL 2026
+                • DATE: 29 SEP 2026
               </div>
               <div className="text-[clamp(2rem,2vw,4rem)]">
-                • VENUE: 216
+                • VENUE: 307
               </div>
             </div>
           </motion.div>
